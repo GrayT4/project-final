@@ -5,5 +5,5 @@ target
 logs
 attachments
 *.patch
-
+/sens_inf.txt
 
