@@ -6,4 +6,5 @@ logs
 attachments
 *.patch
 
+/sens_inf.env
 
