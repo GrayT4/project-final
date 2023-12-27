@@ -18,7 +18,7 @@ docker run -p 5433:5432 --name postgres-db-test -e POSTGRES_USER=jira -e POSTGRE
 ```
 3. Сбилдить приложение: 
 ```
-mvn clean install
+mvn clean install -DskipTests
 ```
 4. Запустить Spring Boot приложение (JiraRushApplication) с профилем `prod`
 
