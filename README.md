@@ -61,7 +61,7 @@ mvn clean install -DskipTests
 - время окончания разработки - ready_for_review
 - время конца тестирования - done
 
-&cross; 9. Написать Dockerfile для основного сервера
+&check; 9. Написать Dockerfile для основного сервера
 
 &cross; 10. Написать docker-compose файл для запуска контейнера сервера вместе с БД и nginx. Для nginx используй конфиг-файл config/nginx.conf. При необходимости файл конфига можно редактировать.
 
